@@ -5,6 +5,10 @@
   <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedTerseLabel" xlink:type="simple" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedTerseLabel"/>
   <link:roleRef roleURI="http://www.xbrl.org/2009/role/negatedTotalLabel" xlink:type="simple" xlink:href="http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd#negatedTotalLabel"/>
   <link:labelLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
+  
+    <link:loc xlink:type="locator" xlink:href="bw2-titel9-cor.xsd#bw2-titel9_BalanceSheetBeforeAppropriationResults" xlink:label="bw2-titel9_BalanceSheetBeforeAppropriationResults_loc"/>
+    <link:label xlink:type="resource" xlink:label="bw2-titel9_BalanceSheetBeforeAppropriationResults_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="bw2-titel9_BalanceSheetBeforeAppropriationResults_label_de">Bilanz vor der Gewinnverwendung</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="bw2-titel9_BalanceSheetBeforeAppropriationResults_loc" xlink:to="bw2-titel9_BalanceSheetBeforeAppropriationResults_label_de"/>
     <link:loc xlink:type="locator" xlink:href="bw2-titel9-cor.xsd#bw2-titel9_AccommodationCostsAllocatedToInvestmentsInLandAndBuildingsForOwnUse" xlink:label="bw2-titel9_AccommodationCostsAllocatedToInvestmentsInLandAndBuildingsForOwnUse_loc"/>
     <link:label xlink:type="resource" xlink:label="bw2-titel9_AccommodationCostsAllocatedToInvestmentsInLandAndBuildingsForOwnUse_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="bw2-titel9_AccommodationCostsAllocatedToInvestmentsInLandAndBuildingsForOwnUse_label_de">Übernachtungskosten für Investitionen in Grundstücke und Bauten für den Eigenbedarf</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="bw2-titel9_AccommodationCostsAllocatedToInvestmentsInLandAndBuildingsForOwnUse_loc" xlink:to="bw2-titel9_AccommodationCostsAllocatedToInvestmentsInLandAndBuildingsForOwnUse_label_de"/>
