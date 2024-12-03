@@ -4901,8 +4901,6 @@
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="bw2-titel9_DutchCivilCodeBook2Title9_loc" xlink:to="bw2-titel9_Section8aTitle_loc" order="9.0"/>
     <link:loc xlink:type="locator" xlink:href="bw2-titel9-all.xsd#bw2-titel9_Article392aTitle" xlink:label="bw2-titel9_Article392aTitle_loc"/>
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="bw2-titel9_Section8aTitle_loc" xlink:to="bw2-titel9_Article392aTitle_loc" order="1.0"/>
-    <link:loc xlink:type="locator" xlink:href="bw2-titel9-cor.xsd#bw2-titel9_ReportOnPaymentsToGovernments" xlink:label="bw2-titel9_ReportOnPaymentsToGovernments_loc"/>
-    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="bw2-titel9_Article392aTitle_loc" xlink:to="bw2-titel9_ReportOnPaymentsToGovernments_loc" order="1.0"/>
     <link:loc xlink:type="locator" xlink:href="bw2-titel9-all.xsd#bw2-titel9_Section9Title" xlink:label="bw2-titel9_Section9Title_loc"/>
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="bw2-titel9_DutchCivilCodeBook2Title9_loc" xlink:to="bw2-titel9_Section9Title_loc" order="10.0"/>
     <link:loc xlink:type="locator" xlink:href="bw2-titel9-all.xsd#bw2-titel9_Article393Title" xlink:label="bw2-titel9_Article393Title_loc"/>

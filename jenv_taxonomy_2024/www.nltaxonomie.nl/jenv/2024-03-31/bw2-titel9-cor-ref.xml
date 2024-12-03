@@ -5819,13 +5819,6 @@
       <ref:Paragraph>6</ref:Paragraph>
     </link:reference>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_RepaymentObligationsOfNoncurrentBorrowings_loc" xlink:to="bw2-titel9_2023-01-01_375_6_ref"/>
-    <link:loc xlink:type="locator" xlink:href="bw2-titel9-cor.xsd#bw2-titel9_ReportOnPaymentsToGovernments" xlink:label="bw2-titel9_ReportOnPaymentsToGovernments_loc"/>
-    <link:reference xlink:type="resource" xlink:label="bw2-titel9_2023-01-01_392a_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="bw2-titel9_2023-01-01_392a_ref">
-      <ref:Article>392a</ref:Article>
-      <ref:IssueDate>2023-01-01</ref:IssueDate>
-      <ref:Name>Burgerlijk wetboek boek 2</ref:Name>
-    </link:reference>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ReportOnPaymentsToGovernments_loc" xlink:to="bw2-titel9_2023-01-01_392a_ref"/>
     <link:loc xlink:type="locator" xlink:href="bw2-titel9-cor.xsd#bw2-titel9_ReserveTranslationDifferencesConversionInvestedAssetsResultParticipatingInterests" xlink:label="bw2-titel9_ReserveTranslationDifferencesConversionInvestedAssetsResultParticipatingInterests_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ReserveTranslationDifferencesConversionInvestedAssetsResultParticipatingInterests_loc" xlink:to="bw2-titel9_2023-01-01_373_1_D_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ReserveTranslationDifferencesConversionInvestedAssetsResultParticipatingInterests_loc" xlink:to="bw2-titel9_2023-01-01_373_4_ref"/>
